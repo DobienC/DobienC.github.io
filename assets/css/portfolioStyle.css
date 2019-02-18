@@ -27,7 +27,7 @@ h4{
 footer{
   color: #ffffff;
   background-color: #666666;
-  height: 50px;
+  height: 7%;
   border-style: solid;
   border-width: 5px 0px 0px 0px;
   border-color: #4aaaa5;
@@ -37,7 +37,7 @@ footer{
 }
 
 .fixed-top{
-  height: 75px;
+  height: 13%;
   border-style: solid;
   border-width: 0px 0px 3px 0px;
   border-color: #cccccc;
@@ -46,9 +46,9 @@ footer{
 .name{
   background-color: #4aaaa5;
   height: 77px;
+  bottom: 10px;
   text-align: center;
   position: relative;
-  left: 73px;
 }
 
 .bodBuffer{
@@ -70,7 +70,8 @@ footer{
 }
 
 .titles{
-    width: 286px;
+    /* width: 286px; */
+    width: 90%;
     height: 50px;
     position: absolute;
     margin-top: -100px;
@@ -78,4 +79,11 @@ footer{
     text-align: center;
     color: #ffffff;
     /* margin-bottom: 20px; */
+}
+
+.project-link{
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
 }
