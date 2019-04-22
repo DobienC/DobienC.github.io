@@ -138,3 +138,10 @@ body{
     color:#999999;
     background-color: #020202;
 }
+
+.dob_img{
+    position: absolute;
+    justify-items: auto;
+    left: 30%;
+    height: 80%;
+}
