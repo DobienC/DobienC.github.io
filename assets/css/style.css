@@ -140,8 +140,12 @@ body{
 }
 
 .dob_img{
-    position: absolute;
-    justify-items: auto;
-    left: 30%;
-    height: 80%;
+    display: block;
+    width: 45%;
+    height: auto;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border-radius: 20%;
 }
