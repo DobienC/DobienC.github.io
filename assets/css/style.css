@@ -1,7 +1,6 @@
 *{
     font-family: Copperplate,Copperplate Gothic Light,fantasy; 
 }
-/* Video */
 
 body{
     background-color: #999999;
@@ -140,6 +139,8 @@ body{
 }
 
 .dob_img{
+    border-style: solid;
+    border-color: black;
     display: block;
     width: 45%;
     height: auto;
