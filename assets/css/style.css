@@ -163,8 +163,12 @@ body{
     border-radius: 25px;
     box-shadow: 5px 10px;
     margin: 5px;
+    padding-bottom: 12px;
 }
 
-.resume{
-    
+.shadowBox_info{
+    background-color: #cccccc;
+    border-radius: 25px;
+    box-shadow: 5px 10px;
+    margin: 5px;
 }
