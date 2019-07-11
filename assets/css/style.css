@@ -7,11 +7,11 @@ body{
 }
 
 .contact_icon{
-    color: green;
+    color: $46CB18;
 }
 
 .contact_icon:hover{
-    color: green;
+    color: $46CB18;
 }
 
 .prj_icon{
